@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about data visualization
 
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shortpathfirst&theme=algolia&show_icons=true&layout=compact" alt="github" /></p>
 
 ## 🛠️ Skills
 
@@ -24,6 +23,7 @@ Here are some ideas to get you started:
 
 **Tools:** `Git`  `GitHub` `Docker` `ElectronJs` `D3`
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shortpathfirst&theme=algolia&show_icons=true&layout=compact" alt="github" /></p>
 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"><a> 
