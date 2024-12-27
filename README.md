@@ -2,8 +2,8 @@
 
 <span style="font-family: 'Comic Sans MS'; font-size: 24px; color:rgb(115, 183, 247);">
   Visit 
-  <a href="https://personalblog/myblog/" target="_blank" style="color:rgb(226, 137, 226);">
-    ✨https://personalblog/myblog/✨
+  <a href="https://shortpathfirst.github.io/myblog/" target="_blank" style="color:rgb(226, 137, 226);">
+    ✨https://shortpathfirst.github.io/myblog/✨
   </a>
   To Explore the projects I have on GitHub Pages.
 </span>
