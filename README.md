@@ -10,20 +10,13 @@
 
 <!--
 **shortpathfirst/shortpathfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning D3
-- 💬 Ask me about data visualization
-
 -->
 
 ## 🛠️ Skills
 
 **Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `Java` `Python`
 
-**Frontend Development:** `Next.js` `React.js` `React native` `Angular`
+**Frontend Development:** `Next.js` `React`  `Angular`
 
 **Backend Development:**  `PostMan`  `Express.js` `Swagger` `Nginx` 
 
@@ -35,7 +28,7 @@ Here are some ideas to get you started:
 
 **Big Data** `Spark Java` `Hadoop Mapreduce`
 
-**Tools:** `Git` `GitHub` `Docker` `ElectronJS`
+**Tools:** `Git` `GitHub` `Docker` `ElectronJS` `QGIS`
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shortpathfirst&theme=algolia&show_icons=true&layout=compact" alt="github" /></p>
 
