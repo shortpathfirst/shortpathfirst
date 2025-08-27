@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### 🌐 Visit my portfolio blog <a href="https://shortpathfirst.github.io/myblog/" target="_blank">✨https://shortpathfirst.github.io/myblog/✨</a>
-To Explore the projects I have on GitHub Pages.
->
+### 🌐 Visit my portfolio blog ✨<a href="https://shortpathfirst.github.io/myblog/" target="_blank">https://shortpathfirst.github.io/myblog/</a>✨
 
 | Kaggle  | Portfolio |
 |:--------:|:--------:|
