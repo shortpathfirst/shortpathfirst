@@ -12,21 +12,19 @@
 
 ## 🛠️ Skills
 
-**Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `Java` `Python`
+**Languages:** `TypeScript` `Java` `Python`
 
-**Frontend Development:** `Next.js` `React`  `Angular`
+**Frontend Development:** `Next.js` `React`
 
-**Backend Development:**  `PostMan`  `Express.js` `Swagger` `Nginx` 
+**Backend Development:**  `Express.js` `Java Spring Boot, Hibernate` 
 
 **Databases:** `MongoDB` `SQLite` `PostgreSQL`
 
-**Machine Learning** `Python` `Tensorflow.js`
+**Machine Learning** `Python` `Tensorflow.js` `Pytorch`
 
 **Visualization** `D3` `Chart.js`
 
-**Big Data** `Spark Java` `Hadoop Mapreduce`
-
-**Tools:** `Git` `GitHub` `Docker` `ElectronJS` `QGIS`
+**Tools:** `Git` `GitHub` `Docker` `ElectronJS` 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shortpathfirst&theme=algolia&show_icons=true&layout=compact" alt="github" /></p>
 
@@ -38,9 +36,10 @@
 
 ## 🚀 Data Science and Analytics 
 
-| Python | Scikit-learn | TensorFlow |
-|--------|--------------|------------|
-| <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="50" height="50"/> </a></p> | <p align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit-learn" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" title="TensorFlow" width="50" height="50"/> </a></p> |
+| Python | Scikit-learn | TensorFlow | Pytorch |
+|--------|--------------|------------|---------|
+| <p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="50" height="50"/> </a></p> | <p align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit-learn" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" title="TensorFlow" width="50" height="50"/> </a></p> |<p align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" title="Pytorch" width="50" height="50"/> </a></p> |
+
 
 ## 📊 Data Visualization and Analysis
 | Pandas | Numpy | Matplotlib | Seaborn | Plotly | D3 |
@@ -66,6 +65,6 @@
 
 
 ## 🛠️ Development Environment and Tools
-| Jupyter | VS Code | Google Colab  | Anaconda |Vite|Git | Docker |
+| Jupyter | VS Code | Kaggle Hub  | Anaconda |Vite|Git | Docker |
 |---------|---------|--------------|----------|---|-----|--------|
-| <p align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="50" height="50"/> </a></p> | <p align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" width="50" height="50"/> </a></p> | <p align="center"><a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" title="Google Colab" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" title="Anaconda" width="50" height="50"/> </a></p> | <p align="center"><a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/> </a></p> | <p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a></p> |
+| <p align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="50" height="50"/> </a></p> | <p align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="kaggle" title="Kaggle Hub" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" title="Anaconda" width="50" height="50"/> </a></p> | <p align="center"><a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50"/> </a></p> | <p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a></p> | <p align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a></p> |
