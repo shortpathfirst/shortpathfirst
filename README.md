@@ -13,7 +13,7 @@
 -->
 ## 🎯 What I do
 
-I am appassionate about both with **data** and **software engineering** — building systems respecting good design patterns and principles  —  exploring and extracting useful information from data and data sources to building predictive models .
+I am appassionate about both with **data** and **software engineering** — building systems respecting good design patterns and principles  —  exploring and extracting useful information from data and data sources to building predictive models.
 
 <table>
 <tr>
@@ -23,16 +23,16 @@ I am appassionate about both with **data** and **software engineering** — buil
 The full lifecycle: collection and cleaning, exploratory analysis, statistical testing, feature engineering, predictive modeling and reporting.
 
 - Data collection and Exploratory data analysis on public datasets.
-- Statistical inference, PCA, feature selection
+- Statistical inference, PCA, feature selection and feature engeneering
 - Models: Decision Trees(XGBoost), Support vector machines(SVM,SVC), Neural Networks, Clusterings (KNN,DBSCAN,..)
-- Evaluation, explainability (SHAP), and HTML/Markdown/BI reports
+- Evaluation, explainability (SHAP)
+- Web Pages and Dashboards, Power BI reports
 
 </td>
 <td width="50%">
 
 ### 💻 Software
 Backends and full-stack products, containerized and documented.
-- Software design patterns and Architectural principles
 - System design basics (Database design,load balancer, caching, asyncronism)
 - **APIS** Python with Flask or Node.js with express
 - **Auth and security**: JWT, Oauth
