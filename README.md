@@ -23,21 +23,20 @@ I am appassionate about both with **data** and **software engineering** — buil
 The full lifecycle: collection and cleaning, exploratory analysis, statistical testing, feature engineering, predictive modeling and reporting.
 
 - Data collection and Exploratory data analysis on public datasets.
-- Statistical inference, PCA, feature selection and feature engeneering
-- Models: Decision Trees(XGBoost), Support vector machines(SVM,SVC), Neural Networks, Clusterings (KNN,DBSCAN,..)
-- Evaluation, explainability (SHAP)
-- Web Pages and Dashboards, Power BI reports
+- Apply statistical testing feature selection and feature engineering.
+- Build and evaluate predictive **models**, supervised or unsupervised learning
+- Share insights through dashboards (Power Bi, Web pages)
 
 </td>
 <td width="50%">
 
 ### 💻 Software
-Backends and full-stack products, containerized and documented.
+Full-stack applications, containerized and documented.
 - System design basics (Database design,load balancer, caching, asyncronism)
-- **APIS** Python with Flask or Node.js with express
+- Design **APIS** with Python using Flask or Node.js using express
 - **Auth and security**: JWT, Oauth
 - React + Vite frontends, Dockerized services
-- Web automation with BeautifulSoup, Playwright, Custom Agents and LLM integration
+- Automate with Beautiful Soup and Playwright; integrate agents and LLMs.
 
 </td>
 </tr>
