@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Passionate about Software Engineering & Data Science</h3>
 
 ### 🌐 Visit my portfolio blog ✨<a href="https://shortpathfirst.github.io/myblog/" target="_blank">https://shortpathfirst.github.io/myblog/</a>✨
 
@@ -9,6 +11,38 @@
 <!--
 **shortpathfirst/shortpathfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## 🎯 What I do
+
+I am appassionate about both with **data** and **software engineering** — building systems respecting good design patterns and principles  —  exploring and extracting useful information from data and data sources to building predictive models .
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Data
+The full lifecycle: collection and cleaning, exploratory analysis, statistical testing, feature engineering, predictive modeling and reporting.
+
+- Data collection and Exploratory data analysis on public datasets.
+- Statistical inference, PCA, feature selection
+- Models: Decision Trees(XGBoost), Support vector machines(SVM,SVC), Neural Networks, Clusterings (KNN,DBSCAN,..)
+- Evaluation, explainability (SHAP), and HTML/Markdown/BI reports
+
+</td>
+<td width="50%">
+
+### 💻 Software
+Backends and full-stack products, containerized and documented.
+- Software design patterns and Architectural principles
+- System design basics (Database design,load balancer, caching, asyncronism)
+- **APIS** Python with Flask or Node.js with express
+- **Auth and security**: JWT, Oauth
+- React + Vite frontends, Dockerized services
+- Web automation with BeautifulSoup, Playwright, Custom Agents and LLM integration
+
+</td>
+</tr>
+</table>
+
 
 ## 🛠️ Skills
 
@@ -26,7 +60,7 @@
 
 **Tools:** `Git` `GitHub` `Docker` `ElectronJS` 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shortpathfirst&theme=algolia&show_icons=true&layout=compact" alt="github" /></p>
+<p> <img src="https://github-readme-stats-nu-bice.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&username=shortpathfirst" height="150" alt="languages graph"  /></p>
 
 
 ## 🌐 Web Development
