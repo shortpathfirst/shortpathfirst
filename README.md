@@ -13,7 +13,7 @@
 -->
 ## 🎯 What I do
 
-I am appassionate about both with **data** and **software engineering** — building systems respecting good design patterns and principles  —  exploring and extracting useful information from data and data sources to building predictive models.
+Passionate about **data** and **software engineering** — respecting good design patterns and principles  —  exploring and extracting useful information from data to building predictive models.
 
 <table>
 <tr>
@@ -25,7 +25,7 @@ The full lifecycle: collection and cleaning, exploratory analysis, statistical t
 - Data collection and Exploratory data analysis on public datasets.
 - Apply statistical testing feature selection and feature engineering.
 - Build and evaluate predictive **models**, supervised or unsupervised learning
-- Share insights through dashboards (Power Bi, Web pages)
+- Share insights through dashboards (Power BI) or Data Visualization Websites.
 
 </td>
 <td width="50%">
